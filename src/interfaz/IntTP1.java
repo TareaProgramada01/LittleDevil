@@ -340,7 +340,6 @@ public class IntTP1 extends javax.swing.JFrame {
             String archivo = dlg.getSelectedFile().toString();
             
             
-            
         }
         
         
